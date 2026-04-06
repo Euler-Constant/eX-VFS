@@ -1,2 +1,2 @@
-## DOCUMENTATION ON THE IMPLEMENTATION OF THE TECHNIQUES IN THE PAPER, "Impact of File-Open Hook Points on Backup Ratio in ROFBS on XFS"
+# DOCUMENTATION ON THE IMPLEMENTATION OF eX-VFS, a bare-bones virtual filesystem.
 
